@@ -1,7 +1,7 @@
-@import './styles/variables';
-@import './styles/component';
+@use 'styles/component';
 
 body {
+  background-color: bisque;
   font-family: Arial, sans-serif;
   padding: 2rem;
 }
